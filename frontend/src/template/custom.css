@@ -1,0 +1,17 @@
+.btn {
+    margin:5px;
+}
+
+th:last-child, td:last-child {
+    text-align: right;
+}
+
+.MarkedAsDone {
+    text-decoration: line-through;
+    font-style: italic;
+    color: darkgrey;
+}
+
+.todoForm {
+    margin-bottom: 25px;
+}
